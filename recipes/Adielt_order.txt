@@ -1,0 +1,8 @@
+Order Receipt - Date: 2024-10-17 15:16:45
+Name: ASUS ROG Strix Gaming PC ID: 404 Description: Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM. | Quantity: 12 | Price per unit: 149900.0 | Total: 1798800.0
+Name: ASUS ROG Strix Gaming PC ID: 404 Description: Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM. | Quantity: 12 | Price per unit: 149900.0 | Total: 1798800.0
+Name: Logitech G Pro Mechanical Keyboard ID: 202 Description: Compact mechanical keyboard with RGB backlighting and tactile switches | Quantity: 12 | Price per unit: 10900.0 | Total: 130800.0
+Name: Razer BlackWidow V3 ID: 8 Description: A mechanical keyboard with bright RGB backlighting and responsive keys. | Quantity: 12 | Price per unit: 14500.0 | Total: 174000.0
+Name: iPhone 14 ID: 1 Description: The new iPhone 14 with an improved camera and long battery life. | Quantity: 11 | Price per unit: 85500.0 | Total: 940500.0
+
+Total Amount: 4842900.0 

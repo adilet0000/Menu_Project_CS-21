@@ -1,4 +1,4 @@
-ID: 5
 Name: Acer Aspire TC
-Price: $749
+ID: 5
+Price: 64500
 Description: A desktop computer with an Intel processor and ample memory for everyday tasks.

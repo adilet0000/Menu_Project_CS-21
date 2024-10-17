@@ -1,43 +1,14 @@
-nurs: Name: ASUS ROG Strix Gaming PC
-ID: 404
-Price: 149900
-Description: Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM.
- Количество: 1
-nurs: Name: Apple MacBook Air M1
-ID: 303
-Price: 99900
-Description: Lightweight and powerful laptop with an Apple M1 processor, 13.3-inch Retina display, and long battery life Количество: 2
-isa: Name: Apple MacBook Air M1
-ID: 303
-Price: 99900
-Description: Lightweight and powerful laptop with an Apple M1 processor, 13.3-inch Retina display, and long battery life Количество: 100
-adilet: Name: ASUS ROG Strix Gaming PC
-ID: 404
-Price: 149900
-Description: Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM.
- Количество: 12
-nurs: Name: ASUS ROG Strix Gaming PC
-ID: 404
-Price: 149900
-Description: Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM.
- Количество: 12
-popa: Name: ASUS ROG Strix Gaming PC
-ID: 404
-Price: 149900
-Description: Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM.
- Quantity: 2
-popa: Name: ASUS ROG Strix Gaming PC
-ID: 404
-Price: 149900
-Description: Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM.
- Quantity: 3
-popa: ID: 5
-Name: Acer Aspire TC
-Price: $749
-Description: A desktop computer with an Intel processor and ample memory for everyday tasks.
- Quantity: 2
-popa: ID: 1
-Name: iPhone 14
-Price: $999
-Description: The new iPhone 14 with an improved camera and long battery life.
- Quantity: 23
+Adilet: ID: 5 Name: Acer Aspire TC Price: $749 Description: A desktop computer with an Intel processor and ample memory for everyday tasks.  Quantity: 15
+Adilet: ID: 8 Name: Razer BlackWidow V3 Price: $169 Description: A mechanical keyboard with bright RGB backlighting and responsive keys.  Quantity: 14
+Adilet: Name: Logitech G Pro Mechanical Keyboard ID: 202 Price: 10900 Description: Compact mechanical keyboard with RGB backlighting and tactile switches Quantity: 14
+Adilet: Name: Apple MacBook Air M1 ID: 303 Price: 99900 Description: Lightweight and powerful laptop with an Apple M1 processor, 13.3-inch Retina display, and long battery life Quantity: 22
+Adilet_2: ID: 1 Name: iPhone 14 Price: $999 Description: The new iPhone 14 with an improved camera and long battery life.  Quantity: 15
+Adielt: Name: ASUS ROG Strix Gaming PC ID: 404 Description: Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM. Quantity: 12 Price per unit: 149900.0 Total: 1798800.0
+Adielt: Name: ASUS ROG Strix Gaming PC ID: 404 Description: Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM. Quantity: 12 Price per unit: 149900.0 Total: 1798800.0
+Adielt: Name: Logitech G Pro Mechanical Keyboard ID: 202 Description: Compact mechanical keyboard with RGB backlighting and tactile switches Quantity: 12 Price per unit: 10900.0 Total: 130800.0
+Adielt: Name: Razer BlackWidow V3 ID: 8 Description: A mechanical keyboard with bright RGB backlighting and responsive keys. Quantity: 12 Price per unit: 14500.0 Total: 174000.0
+Adielt: Name: iPhone 14 ID: 1 Description: The new iPhone 14 with an improved camera and long battery life. Quantity: 11 Price per unit: 85500.0 Total: 940500.0
+Adilet: Name: ASUS ROG Strix Gaming PC ID: 404 Description: Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM. Quantity: 12 Price per unit: 149900.0 Total: 1798800.0
+Adilet: Name: ASUS ROG Strix Gaming PC ID: 404 Description: Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM. Quantity: 14 Price per unit: 149900.0 Total: 2098600.0
+Adilet: Name: Samsung Galaxy S21 Ultra ID: 2 Description: The new iPhone 14 with an improved camera and long battery life. Quantity: 12 Price per unit: 92990.0 Total: 1115880.0
+secret: Name: Apple MacBook Air M1 ID: 303 Description: Lightweight and powerful laptop with an Apple M1 processor, 13.3-inch Retina display, and long battery life Quantity: 15 Price per unit: 99900.0 Total: 1498500.0

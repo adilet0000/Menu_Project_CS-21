@@ -1,0 +1,6 @@
+Order Receipt - Date: 2024-10-17 15:17:06
+Name: ASUS ROG Strix Gaming PC ID: 404 Description: Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM. | Quantity: 12 | Price per unit: 149900.0 | Total: 1798800.0
+Name: ASUS ROG Strix Gaming PC ID: 404 Description: Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM. | Quantity: 14 | Price per unit: 149900.0 | Total: 2098600.0
+Name: Samsung Galaxy S21 Ultra ID: 2 Description: The new iPhone 14 with an improved camera and long battery life. | Quantity: 12 | Price per unit: 92990.0 | Total: 1115880.0
+
+Total Amount: 5013280.0 
