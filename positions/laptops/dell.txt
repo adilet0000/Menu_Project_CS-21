@@ -1,0 +1,4 @@
+ID: 3
+Name: Dell XPS 13
+Price: $1,299
+Description: A compact and powerful laptop with an InfinityEdge display.

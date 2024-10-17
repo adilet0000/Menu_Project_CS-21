@@ -1,0 +1,43 @@
+nurs: Name: ASUS ROG Strix Gaming PC
+ID: 404
+Price: 149900
+Description: Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM.
+ Количество: 1
+nurs: Name: Apple MacBook Air M1
+ID: 303
+Price: 99900
+Description: Lightweight and powerful laptop with an Apple M1 processor, 13.3-inch Retina display, and long battery life Количество: 2
+isa: Name: Apple MacBook Air M1
+ID: 303
+Price: 99900
+Description: Lightweight and powerful laptop with an Apple M1 processor, 13.3-inch Retina display, and long battery life Количество: 100
+adilet: Name: ASUS ROG Strix Gaming PC
+ID: 404
+Price: 149900
+Description: Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM.
+ Количество: 12
+nurs: Name: ASUS ROG Strix Gaming PC
+ID: 404
+Price: 149900
+Description: Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM.
+ Количество: 12
+popa: Name: ASUS ROG Strix Gaming PC
+ID: 404
+Price: 149900
+Description: Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM.
+ Quantity: 2
+popa: Name: ASUS ROG Strix Gaming PC
+ID: 404
+Price: 149900
+Description: Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM.
+ Quantity: 3
+popa: ID: 5
+Name: Acer Aspire TC
+Price: $749
+Description: A desktop computer with an Intel processor and ample memory for everyday tasks.
+ Quantity: 2
+popa: ID: 1
+Name: iPhone 14
+Price: $999
+Description: The new iPhone 14 with an improved camera and long battery life.
+ Quantity: 23

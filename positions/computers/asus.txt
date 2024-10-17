@@ -1,0 +1,4 @@
+Name: ASUS ROG Strix Gaming PC
+ID: 404
+Price: 149900
+Description: Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM.

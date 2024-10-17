@@ -1,0 +1,4 @@
+Name: Logitech G Pro Mechanical Keyboard
+ID: 202
+Price: 10900
+Description: Compact mechanical keyboard with RGB backlighting and tactile switches

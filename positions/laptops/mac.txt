@@ -1,0 +1,4 @@
+Name: Apple MacBook Air M1
+ID: 303
+Price: 99900
+Description: Lightweight and powerful laptop with an Apple M1 processor, 13.3-inch Retina display, and long battery life

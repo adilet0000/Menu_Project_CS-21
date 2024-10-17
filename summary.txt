@@ -1,0 +1,90 @@
++-------------+-----------------------------------------------------------------------------------------------------------------------------+----------+
+|     User    |                                                         Product Info                                                        | Quantity |
++-------------+-----------------------------------------------------------------------------------------------------------------------------+----------+
+|             |                                                                                                                             |          |
+|     nurs    |                                                Name: ASUS ROG Strix Gaming PC                                               |   N/A    |
+|             |                                                                                                                             |          |
+|      ID     |                                                             404                                                             |   N/A    |
+|             |                                                                                                                             |          |
+|    Price    |                                                            149900                                                           |   N/A    |
+|             |                                                                                                                             |          |
+| Description |                 Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM.                |   N/A    |
+|             |                                                                                                                             |          |
+|  Количество |                                                              1                                                              |   N/A    |
+|             |                                                                                                                             |          |
+|     nurs    |                                                  Name: Apple MacBook Air M1                                                 |   N/A    |
+|             |                                                                                                                             |          |
+|      ID     |                                                             303                                                             |   N/A    |
+|             |                                                                                                                             |          |
+|    Price    |                                                            99900                                                            |   N/A    |
+|             |                                                                                                                             |          |
+| Description |  Lightweight and powerful laptop with an Apple M1 processor, 13.3-inch Retina display, and long battery life Количество: 2  |   N/A    |
+|             |                                                                                                                             |          |
+|     isa     |                                                  Name: Apple MacBook Air M1                                                 |   N/A    |
+|             |                                                                                                                             |          |
+|      ID     |                                                             303                                                             |   N/A    |
+|             |                                                                                                                             |          |
+|    Price    |                                                            99900                                                            |   N/A    |
+|             |                                                                                                                             |          |
+| Description | Lightweight and powerful laptop with an Apple M1 processor, 13.3-inch Retina display, and long battery life Количество: 100 |   N/A    |
+|             |                                                                                                                             |          |
+|    adilet   |                                                Name: ASUS ROG Strix Gaming PC                                               |   N/A    |
+|             |                                                                                                                             |          |
+|      ID     |                                                             404                                                             |   N/A    |
+|             |                                                                                                                             |          |
+|    Price    |                                                            149900                                                           |   N/A    |
+|             |                                                                                                                             |          |
+| Description |                 Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM.                |   N/A    |
+|             |                                                                                                                             |          |
+|  Количество |                                                              12                                                             |   N/A    |
+|             |                                                                                                                             |          |
+|     nurs    |                                                Name: ASUS ROG Strix Gaming PC                                               |   N/A    |
+|             |                                                                                                                             |          |
+|      ID     |                                                             404                                                             |   N/A    |
+|             |                                                                                                                             |          |
+|    Price    |                                                            149900                                                           |   N/A    |
+|             |                                                                                                                             |          |
+| Description |                 Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM.                |   N/A    |
+|             |                                                                                                                             |          |
+|  Количество |                                                              12                                                             |   N/A    |
+|             |                                                                                                                             |          |
+|     popa    |                                                Name: ASUS ROG Strix Gaming PC                                               |   N/A    |
+|             |                                                                                                                             |          |
+|      ID     |                                                             404                                                             |   N/A    |
+|             |                                                                                                                             |          |
+|    Price    |                                                            149900                                                           |   N/A    |
+|             |                                                                                                                             |          |
+| Description |                 Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM.                |   N/A    |
+|             |                                                                                                                             |          |
+|   Quantity  |                                                              2                                                              |   N/A    |
+|             |                                                                                                                             |          |
+|     popa    |                                                Name: ASUS ROG Strix Gaming PC                                               |   N/A    |
+|             |                                                                                                                             |          |
+|      ID     |                                                             404                                                             |   N/A    |
+|             |                                                                                                                             |          |
+|    Price    |                                                            149900                                                           |   N/A    |
+|             |                                                                                                                             |          |
+| Description |                 Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM.                |   N/A    |
+|             |                                                                                                                             |          |
+|   Quantity  |                                                              3                                                              |   N/A    |
+|             |                                                                                                                             |          |
+|     popa    |                                                            ID: 5                                                            |   N/A    |
+|             |                                                                                                                             |          |
+|     Name    |                                                        Acer Aspire TC                                                       |   N/A    |
+|             |                                                                                                                             |          |
+|    Price    |                                                             $749                                                            |   N/A    |
+|             |                                                                                                                             |          |
+| Description |                       A desktop computer with an Intel processor and ample memory for everyday tasks.                       |   N/A    |
+|             |                                                                                                                             |          |
+|   Quantity  |                                                              2                                                              |   N/A    |
+|             |                                                                                                                             |          |
+|     popa    |                                                            ID: 1                                                            |   N/A    |
+|             |                                                                                                                             |          |
+|     Name    |                                                          iPhone 14                                                          |   N/A    |
+|             |                                                                                                                             |          |
+|    Price    |                                                             $999                                                            |   N/A    |
+|             |                                                                                                                             |          |
+| Description |                               The new iPhone 14 with an improved camera and long battery life.                              |   N/A    |
+|             |                                                                                                                             |          |
+|   Quantity  |                                                              23                                                             |   N/A    |
++-------------+-----------------------------------------------------------------------------------------------------------------------------+----------+

@@ -1,0 +1,4 @@
+ID: 1
+Name: iPhone 14
+Price: $999
+Description: The new iPhone 14 with an improved camera and long battery life.

@@ -1,0 +1,24 @@
+Order Receipt
+Date: 2024-10-17 11:09:01
+
+Name: ASUS ROG Strix Gaming PC
+ID: 404
+Price: 149900
+Description: Gaming computer with an Intel i7 processor, NVIDIA RTX 3080 graphics card, and 16 GB of RAM.
+
+Quantity: 2
+
+ID: 5
+Name: Acer Aspire TC
+Price: $749
+Description: A desktop computer with an Intel processor and ample memory for everyday tasks.
+
+Quantity: 2
+
+ID: 1
+Name: iPhone 14
+Price: $999
+Description: The new iPhone 14 with an improved camera and long battery life.
+
+Quantity: 23
+

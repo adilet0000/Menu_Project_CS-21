@@ -1,0 +1,4 @@
+ID: 8
+Name: Razer BlackWidow V3
+Price: $169
+Description: A mechanical keyboard with bright RGB backlighting and responsive keys.
